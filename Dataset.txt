@@ -1,0 +1,6 @@
+I have used the dataset "Weather in Australia".
+This dataset has data about registrations and observations by meteorological stations in Australia.
+I have predicted the next-day rain by training classification models on the target variable RainTomorrow.
+There are 145460 rows and 23 columns in this dataset
+These are the column names - 'Date', 'Location', 'MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation', 'Sunshine', 'WindGustDir', 'WindGustSpeed', 'WindDir9am', 'WindDir3pm', 'WindSpeed9am', 'WindSpeed3pm', 'Humidity9am', 'Humidity3pm', 'Pressure9am', 'Pressure3pm', 'Cloud9am', 'Cloud3pm', 'Temp9am', 'Temp3pm', 'RainToday', 'RainTomorrow'.
+RainTomorrow is the target variable I have used to predict.
